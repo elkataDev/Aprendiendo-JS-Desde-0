@@ -1,0 +1,9 @@
+
+            Metodos HTTP en API
+
+Método	            Significado	               Usado para...
+GET                	Obtener datos         	   Consultar información (leer)
+POST	            Enviar datos	           Crear un nuevo recurso
+PUT	                Reemplazar datos	       Actualizar completamente un recurso existente
+PATCH           	Modificar parcialmente	   Actualizar solo una parte de un recurso
+DELETE          	Eliminar datos	           Borrar un recurso existente

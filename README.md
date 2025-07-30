@@ -35,6 +35,7 @@ El objetivo de este repositorio es proporcionar un recurso práctico y bien orga
 - Conocimientos básicos de HTML y/o programación (opcional pero recomendado)
 - Editor de código (VS Code recomendado)
 - Node.js instalado para algunos ejemplos (opcional)
+- Pluggin Thunder Client y Live Server
 
 ## 🛠️ Cómo usar este repositorio
 

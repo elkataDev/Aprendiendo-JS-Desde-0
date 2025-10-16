@@ -13,6 +13,8 @@ arrayAnimales.unshift("canguro"); // Agrego al principio (pila)
 mostrarArreglo(arrayAnimales);
 
 arrayAnimales.splice(3, 1); //Elimina el animal que se encuentra en la tercera posicion
+//arrayAnimales.splice(3, 2); //Elimina dos elementos a partir de la tercera posicion
+//arrayAnimales.splice(3, 0,"caballo"); //Agrega uno o varios elementos a partir de la tercera posicion
 
 console.log("************************");
 mostrarArreglo(arrayAnimales);
